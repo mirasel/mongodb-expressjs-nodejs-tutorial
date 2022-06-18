@@ -1,6 +1,6 @@
 # NodeJS ExpressJS MongoDB Basic tutorial
 
-This repository is actually a nodejs, expressjs and mongodb training tutorial made by myself. It covers very basic of those techonologies. From the raw coding with nodejs to coading with expressjs, I tried to cover everything we need to build a very simple project.
+This repository is actually a nodejs, expressjs and mongodb training tutorial made by myself. It covers very basic of those techonologies. From the raw coding with nodejs to coding with expressjs, I tried to cover everything we need to build a very simple project.
 
 In this repo we can learn the followings:
 
